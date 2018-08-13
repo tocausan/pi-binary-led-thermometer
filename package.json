@@ -1,0 +1,15 @@
+{
+  "name": "pi-binary-led-thermometer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tocausan",
+  "license": "ISC",
+  "dependencies": {
+    "bme680-sensor": "^0.1.4",
+    "rpio": "^0.9.22"
+  }
+}
